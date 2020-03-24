@@ -1,6 +1,3 @@
-/**
- * Created by tiancheng on 2019/4/22.
- */
 import {
 	StyleSheet,
 } from 'react-native';
